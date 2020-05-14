@@ -8,6 +8,8 @@ git pull && make
 ```
 
 ```julia
+using Pkg
 Pkg.add("NetCDF")
 Pkg.add("Blink")
 ```
+
